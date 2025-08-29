@@ -1,1 +1,1 @@
-# Hello GitHub CLI
+# hello GitHub CLI
